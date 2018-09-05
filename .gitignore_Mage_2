@@ -61,3 +61,6 @@ atlassian*
 !/vendor/.htaccess
 # /generated/*
 !/generated/.htaccess
+
+.htaccess
+robots.txt

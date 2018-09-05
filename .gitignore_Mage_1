@@ -33,5 +33,8 @@ media/*
 .idea/
 .modman
 
+.htaccess
+robots.txt
+
 # Don't commit composer dependencies:
 composer/
