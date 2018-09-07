@@ -63,4 +63,5 @@ atlassian*
 !/generated/.htaccess
 
 .htaccess
+error.log
 robots.txt

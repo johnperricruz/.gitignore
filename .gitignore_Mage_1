@@ -32,9 +32,9 @@ media/*
 .phpstorm.meta.php
 .idea/
 .modman
-
 .htaccess
 robots.txt
+error.log
 
 # Don't commit composer dependencies:
 composer/
