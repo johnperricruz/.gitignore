@@ -25,7 +25,7 @@ media/*
 # media/css_secure
 # media/js
 # media/js_secure
-
+.DS_Store
 
 # I use a global gitignore file for the following, but worth noting these:
 .DS_Store
